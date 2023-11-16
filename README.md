@@ -6,7 +6,7 @@ To exploit SQL Injection vulnerability using Multidae web application in Metaspl
 
 ## DESIGN STEPS:
 
-### Step 1:
+### Step 1: 
 
 Install kali linux either in partition or virtual box or in live mode
 
